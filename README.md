@@ -4,7 +4,7 @@
 
   - I'm a 20 year old student :man_student:
   - My main goal is to become a good developer :technologist:
-  - Side quest is trying to stay healthy and hit the gym :weight_lifting_man:
+  - Side quest is trying to stay healthy and do sports :weight_lifting_man:
 
 ### My Current Languages / Tools:
 
