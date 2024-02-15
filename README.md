@@ -2,7 +2,7 @@
 
 ## Im an Applied Informatics student
 
-  - I'm a 20 year old student :man_student:
+  - I'm a 21 year old student :man_student:
   - Tryna be a decent developer :technologist:
   - Side quest is trying to stay healthy and do sports :weight_lifting_man:
 
