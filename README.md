@@ -1,4 +1,4 @@
-# Hey Hey :upside_down_face:, I'm Snowy
+# Hey Hey :upside_down_face:, I'm Xan
 
 ## Im an Applied Informatics student
 
