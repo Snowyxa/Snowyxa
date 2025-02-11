@@ -2,7 +2,7 @@
 
 ## Im an Applied Informatics student
 
-  - I'm a 21 year old student :man_student:
+  - I'm a 22 year old student :man_student:
   - Tryna be a decent developer :technologist:
   - Side quest is trying to stay healthy and do sports :weight_lifting_man:
 
@@ -30,7 +30,8 @@
 
 ### :dart: Current Project:
 
-- It's quiet.....
+- Portfolio website
+- Bachelor paper + chrome extension
 
 ### Stats:
 
