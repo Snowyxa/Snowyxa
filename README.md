@@ -3,7 +3,7 @@
 ## Im an Applied Informatics student
 
   - I'm a 22 year old student :man_student:
-  - Trying be a good developer :technologist:
+  - Trying to be a good developer :technologist:
   - On the side I'm staying healthy and doing a bunch of sports :weight_lifting_man:
 
 ### My Current Languages / Tools:
