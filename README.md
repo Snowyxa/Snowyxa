@@ -28,7 +28,7 @@
 <br />
 <br />
 
-### :dart: Current Project:
+### :dart: Current Projects:
 
 - Portfolio website
 - Bachelor paper + chrome extension
