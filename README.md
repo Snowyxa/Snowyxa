@@ -85,9 +85,7 @@
 - 🤖 AI & Automation enthusiast
 - ☁️ Cloud technology explorer
 - 🎮 Gamer & eSports follower
-- 🧑‍💻 Hackathons & coding challenges
 - 🗺️ Love to travel and discover new cultures
-- ☕ Coffee lover & meme connoisseur
 
 ---
 
